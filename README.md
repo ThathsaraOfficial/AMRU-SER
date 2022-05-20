@@ -48,7 +48,7 @@
 4. Click [FORK](https://github.com/AMRUSIR/AMRU-SER/fork) 
 5 Click the url showing below to copy deploy template
 ````
-https://heroku.com/deploy?template=https://github.com/AMRUSIR/AMRU-SER
+https://heroku.com/deploy?template=https://github.com/ThathsaraOfficial/AMRU-SER
 ````
 6. Now change AMRUSIR with your github username and click ENJOY
 
